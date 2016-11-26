@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name simple_headers)(type KiCad)(uri "$(KIPRJMOD)/simple_headers.pretty")(options "")(descr ""))
+  (lib (name ESP8266)(type KiCad)(uri "$(KIPRJMOD)/ESP8266.pretty")(options "")(descr ""))
+  (lib (name oshw-logo)(type KiCad)(uri "$(KIPRJMOD)/oshw-logo.pretty")(options "")(descr ""))
+)
