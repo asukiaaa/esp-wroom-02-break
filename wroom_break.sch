@@ -36,11 +36,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "esp-wroom-02-break"
+Date "2017-01-01"
+Rev "1.1"
 Comp ""
-Comment1 ""
+Comment1 "License: MIT"
 Comment2 ""
 Comment3 ""
 Comment4 ""
